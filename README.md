@@ -1,4 +1,4 @@
-# nobody_puts_swayze_in_a_coffin
+# nobody puts swayze in a coffin
 
 This is the team repository for Mareike, Lisa, Knut, and Captain Dicte.
 
